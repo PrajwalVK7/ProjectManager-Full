@@ -1,3 +1,6 @@
 [submodule "taskmanager"]
 	path = taskmanager
 	url = https://github.com/PrajwalVK7/ProjectManager_frontend.git
+[submodule "my_json_server"]
+	path = my_json_server
+	url = https://github.com/PrajwalVK7/Project-Management-Server.git
